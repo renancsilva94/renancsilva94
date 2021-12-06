@@ -12,7 +12,7 @@ Welcome to my github :)! Nice to meet you!
 
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/renancarvalho94)]( www.linkedin.com/in/renancarvalho94)
+![Linkedin Badge]]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 
 
