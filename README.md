@@ -12,8 +12,7 @@ Welcome to my github :)! Nice to meet you!
 
 ## About me
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](www.linkedin.com/in/renancarvalho94)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/renancarvalho94)]( www.linkedin.com/in/renancarvalho94)
 
 
 
@@ -21,8 +20,4 @@ Welcome to my github :)! Nice to meet you!
 
 - Enjoy it!! o/
 
-<!---
-renancsilva94/renancsilva94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Welcome to my github :)! Nice to meet you! 
+
